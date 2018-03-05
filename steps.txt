@@ -1,0 +1,10 @@
+git init
+git add *
+git status
+git commit -m "first commit"
+
+
+git push -u https://github.com/hmeena/TestGitHubRepo.git master
+
+
+
